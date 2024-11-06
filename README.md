@@ -20,11 +20,6 @@ Program to implement the SVM For Spam Mail Detection..
 Developed by: Dhayananth.P.S
 RegisterNumber: 212223040039
 */
-/*
-Program to implement the SVM For Spam Mail Detection..
-Developed by: MONISHKUMAR.V
-RegisterNumber:  212223040116
-*/
 import pandas as pd
 from sklearn.model_selection import train_test_split
 from sklearn.feature_extraction.text import TfidfVectorizer
